@@ -1,3 +1,11 @@
+game:GetService("StarterGui"):SetCore("SendNotification",
+		{
+			Title = "BONK HUB",
+			Text = "Load : BONK HUB Fast Attack Mobile",
+            Icon = "rbxassetid://1078907462",
+		}
+)
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
